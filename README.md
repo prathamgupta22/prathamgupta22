@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Pratham Gupta</h1>
+<p align="center">A Passionate Web Developer</p>
+
 # 💫 About Me:
 🔭 I’m currently working on EazyBuy {A Ecommerce Web Application}<br>👯 I’m looking to collaborate on Production level development and get real world experience<br>🤝 I’m looking for help with React Native<br>🌱 I’m currently learning Mern Development<br>💬 Ask me about MERN stack and overall Web Development<br>
 👨‍💻 All of my projects are available at [https://prathamdev.netlify.app](https://prathamdev.netlify.app)<br>
